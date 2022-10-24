@@ -1,0 +1,3 @@
+/home/raz/dev/projects.cpp/codingGym/ex11/cmake-build-debug/CMakeFiles/ex11.dir
+/home/raz/dev/projects.cpp/codingGym/ex11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/raz/dev/projects.cpp/codingGym/ex11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
